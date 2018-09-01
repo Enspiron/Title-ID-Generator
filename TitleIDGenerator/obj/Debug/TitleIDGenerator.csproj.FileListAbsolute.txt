@@ -1,0 +1,15 @@
+D:\Programs\TitleIDGenerator\TitleIDGenerator\bin\Debug\TitleIDGenerator.exe.config
+D:\Programs\TitleIDGenerator\TitleIDGenerator\bin\Debug\TitleIDGenerator.exe
+D:\Programs\TitleIDGenerator\TitleIDGenerator\bin\Debug\TitleIDGenerator.pdb
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.csprojAssemblyReference.cache
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.Main.resources
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.Properties.Resources.resources
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.csproj.GenerateResource.cache
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.csproj.CoreCompileInputs.cache
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.exe
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.pdb
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.About.resources
+D:\Programs\TitleIDGenerator\TitleIDGenerator\bin\Debug\TitleIDGenerator.exe.manifest
+D:\Programs\TitleIDGenerator\TitleIDGenerator\bin\Debug\TitleIDGenerator.application
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.exe.manifest
+D:\Programs\TitleIDGenerator\TitleIDGenerator\obj\Debug\TitleIDGenerator.application
